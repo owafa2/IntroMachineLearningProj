@@ -1,0 +1,22 @@
+{
+  "smallcnn": {
+    "accuracy": 0.9102,
+    "accuracy_ci95": [
+      0.9043975,
+      0.9153
+    ],
+    "precision_macro": 0.9099307257550523,
+    "recall_macro": 0.9102,
+    "f1_macro": 0.9100207930698471
+  },
+  "resnet18": {
+    "accuracy": 0.9622,
+    "accuracy_ci95": [
+      0.9585,
+      0.966
+    ],
+    "precision_macro": 0.9622985282270973,
+    "recall_macro": 0.9621999999999999,
+    "f1_macro": 0.9621822079862469
+  }
+}
